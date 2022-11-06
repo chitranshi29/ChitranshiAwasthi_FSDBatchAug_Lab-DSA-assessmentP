@@ -13,10 +13,10 @@ We can implement the code for ba
 
 
 Second problem:
-Input: sum = 28, given BST
-output Sum = 130
-Pair is (60,70)
-Please find attched Image.
+Input: sum =130, given BST
+output:Pair is (60,70)
+If the sum is not found, print nodes are not found.
+Please find attched Image.[Program.docs] file 
 
 
 Sum_Binary_tree is the class.The idea is based on Hashing. 
